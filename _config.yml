@@ -8,7 +8,7 @@ baseurl: "/fluffy-tribble"              # Only required if your site is in a dir
 # SOCIAL PROFILES
 social:
   email: name@example.com
-  twitter: peterdesmet
+  twitter: 
   github: github_username               # Can also be a github_username/repository
   mastodon: https://mastodon.social/@mastodon_username
   facebook:                             # A URL
