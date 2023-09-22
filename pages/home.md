@@ -1,10 +1,8 @@
 ---
 layout: home
-title:
+title: Making Smart Simple
 description:
 background: /assets/theme/images/process_flow.png
 permalink: /
 ---
-
-## Making Smart Simple
 
