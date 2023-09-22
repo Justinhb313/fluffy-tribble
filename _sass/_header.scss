@@ -5,7 +5,7 @@
   // background-image: set in page front matter
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
   border-radius: 0; // Should always be square, independent from $enable-rounded
   color: #36558F; // Egyptian Blue for text;
   margin-bottom: 2rem;
@@ -14,7 +14,7 @@
   text-align: center;
 
   @include media-breakpoint-up(md) {
-    padding: 4rem 2rem;
+    padding: 15rem 2rem;
   }
 
   &.bg-no-image {
@@ -23,7 +23,7 @@
 
   // Overlay
   &.bg-image:before {
-    background-image: linear-gradient(rgba($dark, 0.1), rgba($dark, 0.9));
+   // background-image: linear-gradient(rgba($dark, 0.1), rgba($dark, 0.9));
     content: "";
     left: 0;
     height: 100%;
