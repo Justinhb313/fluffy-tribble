@@ -70,6 +70,12 @@ description: Template for team page.
             <a href="mailto:{{ member.email }}"><i class="far fa-envelope"></i></a>
           </li>
         {% endif %}
+
+        {% if member.linkedin %}
+          <li class="list-inline-item">
+            <a href="https://https://www.linkedin.com/in/edward-timlen-79aa585//{{ member.linkedin }}"><i class="fab fa-linkedin"></i></a>
+          </li>
+        {% endif %}
       </ul>
     </div>
   </div>
