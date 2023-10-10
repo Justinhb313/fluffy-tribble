@@ -5,5 +5,6 @@
   image: assets/theme/images/corp_head.jpg # Can be external link
   description: > # Can be Markdown
     Founder and CEO of NuEyes Venture.
+  linkedin:
   twitter: twitter_username
   email: name@example.com
