@@ -1,6 +1,6 @@
 ---
 layout: team
-title: Team
+title:
 description: Who we are
 permalink: /team/
 ---
