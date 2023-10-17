@@ -4,7 +4,7 @@ description: Template for a list of posts as cards, with full width.
 ---
 
 <div class="row">
-  <div class="col">
+  <div class="col-md-10 col-lg-8 order-lg-first mx-auto">
 
     {{ content }}
   
@@ -13,7 +13,7 @@ description: Template for a list of posts as cards, with full width.
 
 <div class="row cards">
   {% for item in site.posts %}
-    <div class="col-md-6 col-lg-4">
+    <div class="col-md-6 col-lg-4 mx-auto">
       {% include card.html %}
     </div>
   {% endfor %}
