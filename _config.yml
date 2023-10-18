@@ -8,7 +8,7 @@ baseurl: "/fluffy-tribble"              # Only required if your site is in a dir
 # SOCIAL PROFILES
 social:
   email: etimlen@NuEyesVenture.com
-  linkedin: https://www.linkedin.com/company/nueyes-venture-llc/
+  linkedin: company/nueyes-venture-llc/
   github:                               # Can also be a github_username/repository
   mastodon:
   facebook:                             # A URL
