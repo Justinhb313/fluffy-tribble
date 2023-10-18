@@ -11,7 +11,8 @@
 
 .card {
   margin-bottom: $grid-gutter-width;
-  width: 80%; // Use allowed width even if content is smaller
+  width: 90%; // Use allowed width even if content is smaller
+  filter: drop-shadow(15px 15px 5px rgb(70, 70, 70));
 
   .card-title {
     a {
