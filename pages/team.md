@@ -1,7 +1,7 @@
 ---
 layout: team
 title: Who We Are
-description: 
+description: NuEyes Venture, LLC is a small healthcare consulting company which specializes in helping clients design, build and support healthcare information technologies.
 permalink: /team/
 ---
 
